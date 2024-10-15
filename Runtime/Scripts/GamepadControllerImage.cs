@@ -1,8 +1,8 @@
 using UnityEngine;
 using System;
 using System.Runtime.InteropServices;
-using UnityEngine.InputSystem;
 using UnityEngine.UI;
+using UnityEngine.InputSystem;
 
 public class GamepadControllerImage : MonoBehaviour
 {

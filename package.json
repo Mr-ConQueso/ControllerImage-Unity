@@ -5,7 +5,7 @@
   "description": "A library that dynamically changes controller button icons based on the current button",
   "unity": "2022.3",
   "dependencies": {
-    "com.unity.inputsystem": ""
+    "com.unity.inputsystem": "1.7.0"
   },
   "keywords": [
     "controller",
