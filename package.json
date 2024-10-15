@@ -1,0 +1,17 @@
+{
+    "name": "net.cheesylabs.controllerimage",
+    "version": "1.0.0",
+    "displayName": "Controller Image",
+    "description": "A library that dynamically changes controller button icons based on the current button",
+    "unity": "2022.3",
+    "dependencies": {},
+    "keywords": ["controller", "button"],
+    "author": {
+        "name": "MrConQueso",
+        "email": "info@cheesylabs.net",
+        "url": "https://github.com/Mr-ConQueso"
+    },
+    "changelogUrl": "",
+    "documentationUrl": "",
+    "license": "LGPL-3.0-or-later"
+}
