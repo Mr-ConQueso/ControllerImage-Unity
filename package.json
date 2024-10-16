@@ -2,22 +2,23 @@
     "name": "net.cheesylabs.controllerimage",
     "version": "1.0.0",
     "displayName": "Controller Image",
-    "description": "This is an example package",
+    "description": "A Unity package that incorporates the C library ControllerImage",
     "unity": "2022.3",
-    "documentationUrl": "https://example.com/",
+    "documentationUrl": "https://github.com/Mr-ConQueso/ControllerImage-Unity/wiki",
     "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "license": "LGPL-3.0-or-later",
     "dependencies": {
-      "com.[company-name].some-package": "1.0.0"
+      "com.unity.inputsystem": "1.7.0"
    },
    "keywords": [
-      "keyword1",
-      "keyword2",
-      "keyword3"
+      "controller",
+      "icons",
+      "compatibility",
+      "porting"
     ],
     "author": {
       "name": "MrConQueso",
       "email": "info@cheesylabs.net",
-      "url": "https://www.unity3d.com"
+      "url": "https://github.com/Mr-ConQueso/ControllerImage-Unity"
     }
   }
